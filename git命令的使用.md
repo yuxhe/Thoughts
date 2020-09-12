@@ -14,3 +14,6 @@
 
 注意出现问题需要强制合并哈
 git pull origin master --allow-unrelated-histories
+
+拉仓库下的wiki方法
+git  clone git@github.com:l1966540314/iOSUnderNotes.wiki.git
