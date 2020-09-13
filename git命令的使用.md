@@ -17,3 +17,6 @@ git pull origin master --allow-unrelated-histories
 
 拉仓库下的wiki方法
 git  clone git@github.com:l1966540314/iOSUnderNotes.wiki.git
+
+强制覆盖本地
+git reset --hard origin/master
