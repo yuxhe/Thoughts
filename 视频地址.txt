@@ -1,0 +1,99 @@
+King - 高性能架构师必备技能 — 文件数据传输架构设计与实现
+链接：http://pan.baidu.com/s/1bo1Qp2Z 密码：1j2t
+
+Martin - C性能王者 - Nginx高效内存池管理实现剖析
+链接：http://pan.baidu.com/s/1bozOuVd 密码：o0zj
+
+Rock - 模块通信
+链接：http://pan.baidu.com/s/1dFk1rrz 密码：qsk2
+
+Lee - 高性能架构师必备技能-远程调用RPC从入门到精通
+链接：http://pan.baidu.com/s/1bpbHZ91 密码：0a8j
+King - 高性能架构师必备技能 — 去中心化的网络架构解析
+链接：http://pan.baidu.com/s/1pKBBewN 密码：ps85
+
+Lee - 高性能架构师必备技能-无锁消息队列的实现
+链接：http://pan.baidu.com/s/1boOk8Rd 密码：na9w
+
+King - 高性能架构师必备技能 — 定位系统架构解析与实现
+链接：http://pan.baidu.com/s/1slA0XL7 密码：zzhh
+
+Martin - 在游戏中学习提升C语言 - 俄罗斯方块实现
+链接：http://pan.baidu.com/s/1o8usbTC 密码：3ax6
+
+课题：高性能架构师必备技能 — 海量定位系统的解析与实现
+上课时间：12-07（今天）  20:30 - 22:00
+上课老师：King老师
+上课地址：https://ke.qq.com/course/131973 
+
+
+单台服务器百万级并发-King老师
+链接：http://pan.baidu.com/s/1hr5ayLQ 密码：93n5
+
+C 性能王者(Nginx) - 内存管理剖析-Martin老师
+链接：http://pan.baidu.com/s/1nvJt7iL 密码：pbe0
+
+异步解耦利器—消息队列-King 
+链接：http://pan.baidu.com/s/1i4VwJ5r 密码：i8oz
+
+C 性能王者Nginx - 内存管理源码剖析（续），源码演示和性能对比-Martin
+链接：http://pan.baidu.com/s/1cpTLnw 密码：votr
+
+高性能架构师必备技能——用户态协议栈之Udp实现
+链接：http://pan.baidu.com/s/1c2zZNVy 密码：q0o1
+
+深入理解红黑树
+链接：http://pan.baidu.com/s/1bpaZyhh 密码：8klz
+
+
+
+12.5 Lee - 高性能架构师必备技能-订阅与发布模式
+链接：https://pan.baidu.com/s/1dFjgeZZ 密码：qe6d
+
+12.4 King - 高性能架构师必备技能 — 单台服务器接入量性能优化
+链接：https://pan.baidu.com/s/1qYSKQgG 密码：alss
+
+12.1 Lee - 高性能架构师必备技能-多线程编程
+链接：https://pan.baidu.com/s/1jHHRl0E 密码：fsyu
+
+11.30 King - 高性能架构师必备技能 — nginx模块开发
+链接：https://pan.baidu.com/s/1nvh3FHf 密码：0utl
+
+11.28 Lee - 叮咚小雅等智能音箱技术解密之语音合成实战语音合成
+链接：https://pan.baidu.com/s/1c2yaFDm 密码：96qo
+
+11.27 King - 高性能架构师必备技能 — 文件数据传输架构设计与实现
+链接：http://pan.baidu.com/s/1bo1Qp2Z 密码：1j2t
+
+11.26 Martin - C性能王者 - Nginx高效内存池管理实现剖析
+链接：http://pan.baidu.com/s/1bozOuVd 密码：o0zj
+
+11.25 Rock - 模块通信
+链接：http://pan.baidu.com/s/1dFk1rrz 密码：qsk2
+
+11.24 Lee - 高性能架构师必备技能-远程调用RPC从入门到精通
+链接：http://pan.baidu.com/s/1bpbHZ91 密码：0a8j
+
+11.23 King - 高性能架构师必备技能 — 去中心化的网络架构解析
+链接：http://pan.baidu.com/s/1pKBBewN 密码：ps85
+
+11.21 Lee - 高性能架构师必备技能-无锁消息队列的实现
+链接：http://pan.baidu.com/s/1boOk8Rd 密码：na9w
+
+11.20 King - 高性能架构师必备技能 — 定位系统架构解析与实现
+链接：http://pan.baidu.com/s/1slA0XL7 密码：zzhh
+
+11.19 Martin - 在游戏中学习提升C语言 - 俄罗斯方块实现
+链接：http://pan.baidu.com/s/1o8usbTC 密码：3ax6
+
+11.18 King - 高性能架构师必备技能 — 持久化存储
+链接：http://pan.baidu.com/s/1o8C8Wg6 密码：x8y1
+
+King老师-带你理解websocket
+链接：https://pan.baidu.com/s/1XaHhf90Ca9b61EbCUyXgjA 
+提取码：o3r1 
+
+下载最新的内核请到这里下载https://www.kernel.org/
+
+下载1.0之前内核可以到这赵炯博士维护的网站下载http://www.oldlinux.org/Linux.old/
+
