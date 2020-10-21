@@ -20,3 +20,18 @@ git  clone git@github.com:l1966540314/iOSUnderNotes.wiki.git
 
 强制覆盖本地
 git reset --hard origin/master
+
+-----------------------------------------拉某子目录
+git init mstm
+cd mstm
+git config core.sparsecheckout true 
+echo 'books/面试题/*' >> .git/info/sparse-checkout 
+git remote add origin git@github.com:JJSilence/books.git  
+git pull origin master
+----------------------------拉某子目录
+git clone -n https://github.com/tensorflow/models
+cd tensorflow
+git config core.sparsecheckout true
+echo official/resnet/* >> .git/info/sparse-checkout
+git checkout master
+-----------------------------------
